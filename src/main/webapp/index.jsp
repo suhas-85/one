@@ -5,7 +5,7 @@
 	<h1 style="color: orange; font-size: 40px;" align="center">FINALLY WE DEPLOYED OUR APP USING JENKINS</h1>
 	<style>
 body {
- 	 background-image: url('https://media.tenor.com/MkI8xJLf6iwAAAAC/background-aesthetic.gif');
+ 	 background-image: url('https://i.gifer.com/origin/c3/c381a645cd812bb03b6a8708ba472e25_w200.gif');
 	 background-repeat: no-repeat;
 	 background-attachment: fixed;
  	 background-size: cover;
