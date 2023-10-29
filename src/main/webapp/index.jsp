@@ -8,7 +8,7 @@ body {
  	 background-image: url('https://media1.giphy.com/media/xUPGcgJ521OGvo2YBa/giphy.gif?cid=6c09b952prp2ihtzcmvgvdelym47pj451gydkyggl0wrf6qv&ep=v1_gifs_search&rid=giphy.gif&ct=g');
 	 background-repeat: no-repeat;
 	 background-attachment: fixed;
- 	 background-size: cover;
+ 	 background-size: 100% 100%;
 }
 </style>
 	<h1 style="font-family:garamond; color: white; font-size: 20px;" align="center">1. SUHAS - 22105059</h1>
