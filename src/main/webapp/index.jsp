@@ -4,7 +4,7 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">THIS IS BATCH 13 PROJECT</h1>
 	<h1 style="color: orange; font-size: 40px;" align="center">FINALLY WE DEPLOYED OUR APP USING JENKINS</h1>
 	<style>
-p {
+body {
   background-image: url('https://media.tenor.com/OXyGMl4fGboAAAAC/animate-background-technology.gif');
 }
 </style>
