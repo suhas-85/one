@@ -5,7 +5,7 @@
 	<h1 style="color: green; font-size: 40px;" align="center">FINALLY WE DEPLOYED OUR APP USING JENKINS</h1>
 	<style>
 body {
-  background-image: url('https://img.freepik.com/premium-vector/balck-white-grunge-texture-background_791818-50.jpg?w=2000');
+  background-image: url('https://wallpapers.com/images/hd/abstract-background-6m6cjbifu3zpfv84.jpg');
 }
 </style>
 	<h3>1. Suhas - 22105059</h3>
