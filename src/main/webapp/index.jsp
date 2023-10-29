@@ -9,8 +9,8 @@ body {
 }
 </style>
 	<h1 style="color: white; font-size: 20px;" align="center">1. SUHAS - 22105059</h1>
-	<h1 style="color: white; font-size: 20px;" align="center">2. POOJA - 22105037</h1>
-	<h1 style="color: white; font-size: 20px;" align="center">3. SRIRAM NISHANTH - 22105057</h1>
+	<h1 style="color: white; font-size: 20px;" align="left">2. POOJA - 22105037</h1>
+	<h1 style="color: white; font-size: 20px;" align="right">3. SRIRAM NISHANTH - 22105057</h1>
 	<h1 style="color: white; font-size: 20px;" align="center">4. SEENIVASAN - 22105053</h1>
 	
 	
