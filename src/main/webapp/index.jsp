@@ -5,7 +5,7 @@
 	<h1 style="color: orange; font-size: 40px;" align="center">FINALLY WE DEPLOYED OUR APP USING JENKINS</h1>
 	<style>
 body {
-  background-image: url('https://i.pinimg.com/originals/8c/89/bb/8c89bb567f6ea95d4618febc0774b658.gif');
+  background-image: url('https://media2.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif');
 }
 </style>
 	<h1 style="font-family:garamond; color: white; font-size: 20px;" align="center">1. SUHAS - 22105059</h1>
