@@ -7,6 +7,8 @@
 body {
  	 background-image: url('https://media.tenor.com/MkI8xJLf6iwAAAAC/background-aesthetic.gif');
 	 background-repeat: no-repeat;
+	 background-attachment: fixed;
+ 	 background-size: cover;
 }
 </style>
 	<h1 style="font-family:garamond; color: white; font-size: 20px;" align="center">1. SUHAS - 22105059</h1>
