@@ -8,10 +8,10 @@ body {
   background-image: url('https://i.pinimg.com/originals/8c/89/bb/8c89bb567f6ea95d4618febc0774b658.gif');
 }
 </style>
-	<h1 style="color: white; font-size: 20px;" align="center">1. SUHAS - 22105059</h1>
-	<h1 style="color: white; font-size: 20px;" align="center">2. POOJA - 22105037</h1>
-	<h1 style="color: white; font-size: 20px;" align="center">3. SRIRAM NISHANTH - 22105057</h1>
-	<h1 style="color: white; font-size: 20px;" align="center">4. SEENIVASAN - 22105053</h1>
+	<h1 style="font-family:garamond; color: white; font-size: 20px;" align="center">1. SUHAS - 22105059</h1>
+	<h1 style="font-family:garamond; color: white; font-size: 20px;" align="center">2. POOJA - 22105037</h1>
+	<h1 style="font-family:garamond; color: white; font-size: 20px;" align="center">3. SRIRAM NISHANTH - 22105057</h1>
+	<h1 style="font-family:garamond; color: white; font-size: 20px;" align="center">4. SEENIVASAN - 22105053</h1>
 	 
 	
 	
