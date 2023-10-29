@@ -5,7 +5,7 @@
 	<h1 style="color: orange; font-size: 40px;" align="center">FINALLY WE DEPLOYED OUR APP USING JENKINS</h1>
 	<style>
 body {
- 	 background-image: url('https://media1.giphy.com/media/xUPGcgJ521OGvo2YBa/giphy.gif?cid=6c09b952prp2ihtzcmvgvdelym47pj451gydkyggl0wrf6qv&ep=v1_gifs_search&rid=giphy.gif&ct=g');
+ 	 background-image: url('https://www.desktophut.com/images/1694703209.webp');
 	 background-repeat: no-repeat;
 	 background-attachment: fixed;
  	 background-size: 100% 100%;
