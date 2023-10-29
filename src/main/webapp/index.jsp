@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h1 style="font-family:serif; color: white; font-size: 40px;" align="center">WELCOME TO THE WORLD OF L&T PROJECT BRO</h1>
+	<h1 style="font-family:monaco; color: white; font-size: 40px;" align="center">WELCOME TO THE WORLD OF L&T PROJECT BRO</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">THIS IS BATCH 13 PROJECT</h1>
 	<h1 style="color: orange; font-size: 40px;" align="center">FINALLY WE DEPLOYED OUR APP USING JENKINS</h1>
 	<style>
