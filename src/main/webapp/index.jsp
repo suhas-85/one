@@ -8,7 +8,9 @@ body {
   background-image: url('https://media.tenor.com/i0nzuUl-6wQAAAAC/background.gif');
 }
 </style>
-	<h1 style="color: white; font-size: 40px;" align="center">SUHAS</h1>
+	<h1 style="color: white; font-size: 40px;" align="center">
+	SUHAS
+	POOJA</h1>
 	<h3>1. Suhas - 22105059</h3>
 	<h3>2. Pooja - 22105037</h3>
 	<h3>3. Sriram Nishanth - 22105057</h3>
