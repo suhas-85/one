@@ -5,7 +5,8 @@
 	<h1 style="color: orange; font-size: 40px;" align="center">FINALLY WE DEPLOYED OUR APP USING JENKINS</h1>
 	<style>
 body {
-  background-image: url('https://media.tenor.com/MkI8xJLf6iwAAAAC/background-aesthetic.gif');
+ 	 background-image: url('https://media.tenor.com/MkI8xJLf6iwAAAAC/background-aesthetic.gif');
+	 background-repeat: no-repeat;
 }
 </style>
 	<h1 style="font-family:garamond; color: white; font-size: 20px;" align="center">1. SUHAS - 22105059</h1>
