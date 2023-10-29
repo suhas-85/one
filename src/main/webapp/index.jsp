@@ -5,7 +5,7 @@
 	<h1 style="color: orange; font-size: 40px;" align="center">FINALLY WE DEPLOYED OUR APP USING JENKINS</h1>
 	<style>
 body {
- 	 background-image: url('https://www.desktophut.com/images/1694703209.webp');
+ 	 background-image: url('https://media.istockphoto.com/id/1406875230/video/4k-formation-chroma-key-geometry-background-to-change-picture-in-your-clips.mp4?s=mp4-640x640-is&k=20&c=Wib3hJFLKvPaj-4E-E1a7jC7GZ-XJpFqHwHO-NZ7SoI=');
 	 background-repeat: no-repeat;
 	 background-attachment: fixed;
  	 background-size: 100% 100%;
