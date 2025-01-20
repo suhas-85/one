@@ -7,7 +7,6 @@
 	<h1 style="color: red; font-size: 40px;" align="center">Done the Project Perfectly</h1>
 	<style>
 body {
- 	 background-image: url('https://i.redd.it/0nypth2l1t8b1.gif');
 	 background-repeat: no-repeat;
 	 background-attachment: fixed;
  	 background-size: 100% 100%;
