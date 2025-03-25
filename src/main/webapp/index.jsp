@@ -12,15 +12,7 @@ body {
  	 background-size: 100% 100%;
 }
 </style>
-	<h1 style="font-family:garamond; color: white; font-size: 20px;" align="center">1. SUHAS - 22105059</h1>
-	<h1 style="font-family:garamond; color: white; font-size: 20px;" align="center">2. POOJA - 22105037</h1>
-	<h1 style="font-family:garamond; color: white; font-size: 20px;" align="center">3. SRIRAM NISHANTH - 22105057</h1>
-	<h1 style="font-family:garamond; color: white; font-size: 20px;" align="center">4. SEENIVASAN - 22105053</h1>
-	 
-	
-	
-	
-	
+	<h1 style="font-family:garamond; color: white; font-size: 20px;" align="center">1. SUHAS - 22105059</h1>	
 	
 	
 </body>
