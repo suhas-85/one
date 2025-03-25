@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>L&T Project - Batch 13</title>
+    <title>Automating Artifacts using Nexus with Jenkins and Maven</title>
     <style>
         /* Import Google Font */
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
@@ -70,9 +70,7 @@
 
     <div class="container">
         <h1 class="title">WELCOME TO THE WORLD OF L&T PROJECT</h1>
-        <h1 class="batch">THIS IS BATCH 13 PROJECT</h1>
         <h1 class="deploy">FINALLY, WE DEPLOYED OUR APP USING JENKINS</h1>
-        <h1 class="done">Done the Project Perfectly</h1>
         <p class="team">1. <span>SUHAS</span> - 22105059</p>
     </div>
 
