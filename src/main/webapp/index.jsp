@@ -72,6 +72,7 @@
         <h1 class="title">WELCOME TO THE WORLD OF L&T PROJECT</h1>
         <h1 class="deploy">FINALLY, WE DEPLOYED OUR APP USING JENKINS</h1>
         <p class="team">1. <span>SUHAS</span> - 22105059</p>
+        <p class="team">1. <span>ROHIND</span> - 25105059</p>
     </div>
 
 </body>
